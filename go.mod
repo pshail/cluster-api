@@ -152,12 +152,13 @@ require (
 require golang.org/x/oauth2 v0.0.0-20220622183110-fd043fe589d2
 
 require (
+	cloud.google.com/go v0.99.0 // indirect
 	github.com/blang/semver/v4 v4.0.0 // indirect
 	github.com/emicklei/go-restful/v3 v3.9.0 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0 // indirect
 	github.com/golang-jwt/jwt/v4 v4.2.0 // indirect
 	github.com/google/gnostic v0.6.9 // indirect
-	github.com/google/pprof v0.0.0-20210407192527-94a9f03dee38 // indirect
+	github.com/google/pprof v0.0.0-20210720184732-4bb14d4b1be1 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	golang.org/x/tools v0.6.0 // indirect
 )
